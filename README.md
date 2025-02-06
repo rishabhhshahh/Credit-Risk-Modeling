@@ -57,7 +57,3 @@ Ensure you have the following installed:
 - Scikit-learn
 - Matplotlib
 - XGBoost
-
-
-   jupyter notebook crm-code.ipynb
-   ```
