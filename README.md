@@ -58,17 +58,6 @@ Ensure you have the following installed:
 - Matplotlib
 - XGBoost
 
-### Running the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/rishabhhshahh/credit-risk-modeling.git
-   cd credit-risk-modeling
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script:
-   ```sh
+
    jupyter notebook crm-code.ipynb
    ```
